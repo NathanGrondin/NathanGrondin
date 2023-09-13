@@ -1,8 +1,8 @@
-body{
+h1{
     color: pink;
     display: grid;
     grid-template-columns: 100%;
-    grid-template-rows: 200px;
+    grid-template-rows: 100%;
     justify-content: center;
     text-align: center;
 }
